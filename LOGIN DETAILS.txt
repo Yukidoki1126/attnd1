@@ -1,0 +1,23 @@
+Database Name: attnd1
+
+TEST LOGINS
+
+ADMIN
+Email   : admin@mail.com
+Password: pass@123
+
+==========
+TEACHER
+Email   : test@mail.com
+Password: pass123
+
+Default password for teacher's account: pass123
+
+========
+PARENTS
+
+PARENT 1
+Email   : test1@mail.com
+Password: test1
+
+
